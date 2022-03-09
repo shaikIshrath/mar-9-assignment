@@ -1,0 +1,2 @@
+s='Aditya educational institutes,aditya group'
+print(s.count('Aditya'))
